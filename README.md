@@ -1,92 +1,78 @@
-# fmri
+# PStA - functional magnetic resonance imaging  (fMRI)
+
+# Structure
 
 
+## I. Introduction
 
-## Getting started
+A. Introduction to the topic and motivation
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+## II. Basics of functional Magnetic Resonance Imaging (fMRI)
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+A. The relationship between neuronal activities and changes in blood flow
 
-## Add your files
+B. Differences between structural and functional MRI
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+C. Functioning of fMRI imaging and physical principles
 
-```
-cd existing_repo
-git remote add origin https://inf-git.fh-rosenheim.de/medbi/fmri.git
-git branch -M main
-git push -uf origin main
-```
+## III. Technical aspects of fMRI devices
 
-## Integrate with your tools
+A. Device structure and functions
 
-- [ ] [Set up project integrations](https://inf-git.fh-rosenheim.de/medbi/fmri/-/settings/integrations)
+B. Magnet strength and magnet field requirements
 
-## Collaborate with your team
+C. RF coils and their role in fMRI imaging
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+## IV. Functioning and data analysis in fMRI
 
-## Test and Deploy
+A. Imaging process
 
-Use the built-in continuous integration in GitLab.
+B. Measurement of blood flow and oxygen consumption
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+C. Data analysis and interpretation of results
 
-***
+1. Brain activation patterns
 
-# Editing this README
+2. Correlations and statistical analysis
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+## V. Applications of fMRI
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+A. Neurological research
 
-## Name
-Choose a self-explaining name for your project.
+B. Clinical diagnosis and therapy planning: Use of fMRI in clinical practice
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+C. Planning and monitoring of neurosurgical procedures
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+## VI. Conclusion
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+A. Summary of key findings
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+B. Outlook on the significance of fMRI in the future
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+<br>
+<br>
+<br>
+<br>
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+# I. Introduction
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+### A. Introduction to the topic and motivation
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+Thoughts, emotions, intelligence, and even consciousness - all these phenomena take place/ occur in our brain. Despite comprising only about 2% of our body weight, the brain consumes more than 20% of the total energy and oxygen intake. It is an astonishing marvel and the most powerful computer on our planet.
 
-## License
-For open source projects, say how it is licensed.
+But how does this fascinating/remarkable organ actually work?
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+For a long time, scientists had no way of looking into/ observing an active brain. Imagine the enormous benefits/ advantages we would have if we could. Not only could we develop significantly more powerful computers or devise / create new treatment methods for mental illnesses, but we could also answer fundamental questions: Who are we? What defines us as human beings?
+
+It was only in 1992 that scientists invented a method that allowed them to examine/ investigate the brain in its active state.This groundbreaking method revolutionized our understanding of the brain and opened up entirely new perspectives for studying neural activities
+
+This study will focus on an imaging technique that enables precisely that - functional magnetic resonance imaging (fMRI). With the help of fMRI, it is possible to explore the functionality of each brain region and gain insights into neuronal activities.
+
+We will examine the fundamentals of this technology, including the functioning of fMRI imaging and its underlying physical principles. Additionally, we will briefly discuss the technical aspects of fMRI devices and provide a detailed explanation of data analysis in fMRI. Finally, we will explore its practical applications and offer / provide a brief outlook on the significance of fMRI in the future.
+
+The aim of this work is to provide a comprehensive understanding of the imaging technique fMRI and demonstrate/ to highlight its significance in various fields.
+
+Through the use of / Using fMRI technology, we are able to gain valuable insights into the functioning of the brain and obtain / achieve a deeper understanding of our own human nature. By visualizing neural activities in the brain, fMRI enables us to explore the fundamentals of thoughts, emotions, intelligence, and consciousness. Therefore, fMRI technology serves as a powerful tool that aids us in deciphering the intricate mechanisms of the brain and attaining a deeper comprehension of its workings.

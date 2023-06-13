@@ -105,17 +105,25 @@ The next section looks in more detail at the physical basis of fMRI imaging in o
 
 To understand the physical principles of fMRI, the properties of atomic nuclei are first considered.
 
+<img src="images/Bildschirmfoto_2023-06-09_um_20.25.17.png" style="float: left;"  width="25%" height="20%">
+<br>
+<br>
 Atomic nuclei, such as protons, have an angular momentum called nuclear spin ([http://www.fmri-easy.de/physik.htm](http://www.fmri-easy.de/physik.htm)). This nuclear spin generates a magnetic moment.
+<br>
+<br>
+
+
+<em>Fig. 3</em>
+
+<em style="float: right;">Fig.4</em>
+<br>
+<img src="images/Bildschirmfoto_2023-06-09_um_20.29.55.png" style="float: right;">
+<br>
+<br>
 
 Under normal environmental conditions, nuclear spins are randomly aligned and balance each other out, causing the average magnetization (M) to approach zero. This net magnetization as well as the alignment of the spins can be seen in the figure shown (Fig.4).
 
-![Bildschirmfoto 2023-06-09 um 20.25.17.png](images/Bildschirmfoto_2023-06-09_um_20.25.17.png)
-
-Fig. 3
-
-![Bildschirmfoto 2023-06-09 um 20.29.55.png](images/Bildschirmfoto_2023-06-09_um_20.29.55.png)
-
-Fig. 4
+<br>
 
 Due to the action of a strong magnetic field, as generated in the fMRI scanner, more on this in a later chapter, the spins change their orientation. "The behavior of spins in the magnetic field is similar to a gyroscope in a gravitational field" (see [https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085) Lecture 3: Fundamentals of MR Imaging (Part 1) page 15).
 

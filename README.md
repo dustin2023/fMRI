@@ -105,7 +105,8 @@ The next section looks in more detail at the physical basis of fMRI imaging in o
 
 To understand the physical principles of fMRI, the properties of atomic nuclei are first considered.
 
-<img src="images/Bildschirmfoto_2023-06-09_um_20.25.17.png" style="float: left;"  width="40%" height="20%">
+<img src="images/Bildschirmfoto_2023-06-09_um_20.25.17.png" style="float: left;"  width="25%" height="20%">
+<br>
 <br>
 Atomic nuclei, such as protons, have an angular momentum called nuclear spin ([http://www.fmri-easy.de/physik.htm](http://www.fmri-easy.de/physik.htm)). This nuclear spin generates a magnetic moment.
 <br>
@@ -114,12 +115,7 @@ Atomic nuclei, such as protons, have an angular momentum called nuclear spin ([h
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <em>Fig. 3</em>
 
 <em style="float: right;">Fig.4</em>

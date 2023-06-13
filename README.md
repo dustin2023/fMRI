@@ -64,9 +64,9 @@ Functional Magnetic Resonance Imaging (fMRI) allows us to gain valuable insights
 
 This section explains how functional magnetic resonance imaging works and explores how this method provides valuable insights into the workings of the brain. The basic operation of fMRI imaging is based on the relationship between neuronal activity and the resulting changes in local blood flow in the brain. When specific regions of the brain are active, there is a localized shortage of oxygen in those regions. This oxygen deficit is then countered, leading to an increased concentration of oxygenated blood in the active regions. The following diagram illustrates this process in a simplified manner. This increased oxygen concentration is considered an indicator of neuronal activity. (Medical Imaging Systems.pdf 6.4.4) ([https://www.youtube.com/watch?v=4UOeBM5BwdY](https://www.youtube.com/watch?v=4UOeBM5BwdY))
 
-![IMG_2594.jpg](PStA%207b1eff93fae741f2903ae44b7ebebfe1/IMG_2594.jpg)
+![IMG_2594.jpg](images/IMG_2594.jpg)
 
-(Abb. 1: VL-Skript Part 2: 33- [https://www.win.ox.ac.uk](https://www.win.ox.ac.uk/))
+(Fig. 1: VL-Skript Part 2: 33- [https://www.win.ox.ac.uk](https://www.win.ox.ac.uk/))
 
 As mentioned earlier, the demand for oxygen and nutrients increases when neuronal regions become more active. In response, cerebral blood flow and blood volume increase in these regions to meet the increased metabolic demands. In the figure, this phenomenon is illustrated by a wider blood flow and a higher number of Oxygen. This increased blood flow leads to an increased amount of oxygen-rich hemoglobin, resulting in a specific pattern of magnetic resonance signals that can be detected and measured.
 
@@ -95,7 +95,7 @@ The end result is an image that represents the different regions of the brain an
 
  (https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/research/themes-and-topics/medical-physics/imaging-techniques/structural-mr)
 
-![IMG_2592.jpeg](PStA%207b1eff93fae741f2903ae44b7ebebfe1/IMG_2592.jpeg)
+![IMG_2592.jpeg](images/IMG_2592.jpeg)
 
 (Fig. 2: [https://www.youtube.com/watch?v=4UOeBM5BwdY](https://www.youtube.com/watch?v=4UOeBM5BwdY))
 
@@ -109,11 +109,11 @@ Atomic nuclei, such as protons, have an angular momentum called nuclear spin ([h
 
 Under normal environmental conditions, nuclear spins are randomly aligned and balance each other out, causing the average magnetization (M) to approach zero. This net magnetization as well as the alignment of the spins can be seen in the figure shown (Fig.4).
 
-![Bildschirmfoto 2023-06-09 um 20.25.17.png](PStA%207b1eff93fae741f2903ae44b7ebebfe1/Bildschirmfoto_2023-06-09_um_20.25.17.png)
+![Bildschirmfoto 2023-06-09 um 20.25.17.png](images/Bildschirmfoto_2023-06-09_um_20.25.17.png)
 
 Fig. 3
 
-![Bildschirmfoto 2023-06-09 um 20.29.55.png](PStA%207b1eff93fae741f2903ae44b7ebebfe1/Bildschirmfoto_2023-06-09_um_20.29.55.png)
+![Bildschirmfoto 2023-06-09 um 20.29.55.png](images/Bildschirmfoto_2023-06-09_um_20.29.55.png)
 
 Fig. 4
 
@@ -121,14 +121,14 @@ Due to the action of a strong magnetic field, as generated in the fMRI scanner, 
 
 There are two possible states: the low energy state (parallel alignment) and the high energy state (anti-parallel alignment) to the magnetic field. In the following image, the parallel states are shown in orange and the anti-parallel states are shown in blue ([https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085) Lecture 3: Fundamentals of MR Imaging (Part 1) page 14).
 
-![Bildschirmfoto 2023-06-09 um 20.32.05.png](PStA%207b1eff93fae741f2903ae44b7ebebfe1/Bildschirmfoto_2023-06-09_um_20.32.05.png)
+![Bildschirmfoto 2023-06-09 um 20.32.05.png](images/Bildschirmfoto_2023-06-09_um_20.32.05.png)
 
 Fig. 5
 
 fMRI uses hydrogen nuclei (protons), which are abundant in water and other tissues. As explained earlier, these protons align under the influence of the strong magnetic field in the fMRI scanner. By applying additional magnetic field gradients, differences in magnetization can be produced that correlate with neuronal activity. It is important to note that the overall vector of magnetization (indicated in Fig. 6
 denoted by arrow M) is measured and not the magnetization of individual atomic nuclei.
 
-![Bildschirmfoto 2023-06-10 um 06.47.52.png](PStA%207b1eff93fae741f2903ae44b7ebebfe1/Bildschirmfoto_2023-06-10_um_06.47.52.png)
+![Bildschirmfoto 2023-06-10 um 06.47.52.png](images/Bildschirmfoto_2023-06-10_um_06.47.52.png)
 
 Fig. 6
 
@@ -151,7 +151,7 @@ The next sections explore the technical aspects of fMRI, including the equipment
 
 Functional magnetic resonance imaging (fMRI) uses special MRI scanners that generate strong magnetic fields. These devices are critical for acquiring the fMRI signals that provide information about brain activity. The following image shows one such MRI scanner.
 
-![Bildschirmfoto 2023-06-11 um 15.51.50.png](PStA%207b1eff93fae741f2903ae44b7ebebfe1/Bildschirmfoto_2023-06-11_um_15.51.50.png)
+![Bildschirmfoto 2023-06-11 um 15.51.50.png](images/Bildschirmfoto_2023-06-11_um_15.51.50.png)
 
 (Fig. 7: [https://news.fsu.edu/news/science-technology/2016/10/24/fsu-unveils-floridas-advanced-mri-machine/](https://news.fsu.edu/news/science-technology/2016/10/24/fsu-unveils-floridas-advanced-mri-machine/))
 
@@ -179,7 +179,7 @@ Localizing the brain areas that will be activated during the study is the primar
 
 ([https://www.cbs.mpg.de/ehemalige-abteilungen/neurophysik/mrt-datenanalyse#:~:text=Analysis and interpretation of functional MRI-Data&text=In a typical fMRI experiment,images taken from the MRI-Scanner](https://www.cbs.mpg.de/ehemalige-abteilungen/neurophysik/mrt-datenanalyse#:~:text=Analysis%20and%20interpretation%20of%20functional%20MRI%2DData&text=In%20a%20typical%20fMRI%20experiment,images%20taken%20from%20the%20MRI%2DScanner)).
 
-![Bildschirmfoto 2023-06-11 um 15.49.14.png](PStA%207b1eff93fae741f2903ae44b7ebebfe1/Bildschirmfoto_2023-06-11_um_15.49.14.png)
+![Bildschirmfoto 2023-06-11 um 15.49.14.png](images/Bildschirmfoto_2023-06-11_um_15.49.14.png)
 
 (Fig. 8 [https://news.harvard.edu/gazette/story/2017/07/using-fmri-eeg-to-search-for-consciousness-in-icu-patients/](https://news.harvard.edu/gazette/story/2017/07/using-fmri-eeg-to-search-for-consciousness-in-icu-patients/))
 
@@ -209,7 +209,7 @@ The next chapter will focus on the applications of fMRI in neuro-oncology and ra
 
 Functional magnetic resonance imaging (fMRI) has several applications in neuro-oncology and radiotherapy. It helps identify important regions in the brain, such as sensorimotor and speech-related areas, before surgery. It also allows determination of the location and function of brain structures such as white matter tracts, compare figure nine.
 
-![Untitled](PStA%207b1eff93fae741f2903ae44b7ebebfe1/Untitled.png)
+![Untitled](images/Untitled.png)
 
 (Fig. 9 [https://ars.els-cdn.com/content/image/1-s2.0-S1053811921009228-gr3.jpg](https://ars.els-cdn.com/content/image/1-s2.0-S1053811921009228-gr3.jpg))
 

@@ -108,8 +108,15 @@ The end result is an image that represents the different regions of the brain an
  (https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/research/themes-and-topics/medical-physics/imaging-techniques/structural-mr)
 
 <img src="images/IMG_2592.jpeg" width="70%" height="50%">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <em>Fig. 2: [YT-Video](https://www.youtube.com/watch?v=4UOeBM5BwdY)</em>
-(Fig. 2: [https://www.youtube.com/watch?v=4UOeBM5BwdY](https://www.youtube.com/watch?v=4UOeBM5BwdY))
+
 
 The next section looks in more detail at the physical basis of fMRI imaging in order to develop a solid understanding of how this technology works.
 <br>

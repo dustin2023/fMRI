@@ -106,7 +106,8 @@ The end result is an image that represents the different regions of the brain an
 ****(****[https://psychcentral.com/lib/what-is-functional-magnetic-resonance-imaging-fmri?c=1188759824#definition](https://psychcentral.com/lib/what-is-functional-magnetic-resonance-imaging-fmri?c=1188759824#definition))
 
  (https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/research/themes-and-topics/medical-physics/imaging-techniques/structural-mr)
-<img src="images/IMG_2592.jpeg" width="25%" height="20%">
+
+<img src="images/IMG_2592.jpeg" width="50%" height="50%">
 
 (Fig. 2: [https://www.youtube.com/watch?v=4UOeBM5BwdY](https://www.youtube.com/watch?v=4UOeBM5BwdY))
 

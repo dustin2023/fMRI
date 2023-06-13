@@ -9,6 +9,7 @@
 # I. Introduction
 
 ### A. Introduction to the Topic and Motivation
+<br>
 
 # **II. Fundamentals of Functional Magnetic Resonance Imaging (fMRI)**
 
@@ -17,26 +18,34 @@
 ### B. Differences between structural and functional MRI
 
 ### C. Physical principles of fMRI
+<br>
 
 # III. Technical aspects of fMRI Devices
 
 ### A. Device structure and functions
+<br>
 
 # IV. Data analysis in fMRI
 
 ### A. Imaging process
 
 ### B. Data analysis and interpretation of results
+<br>
 
 # V. Applications of fMRI in Neuro-Oncology and Radiotherapy
 
 ### A. Clinical applications
+<br>
 
 # VI. Conclusion
 
 ### A. Summary of Key Findings
 
 ### ****B. Outlook on the future significance of fMRI****
+<br>
+<br>
+<br>
+
 
 # I. Introduction
 
@@ -82,6 +91,8 @@ To measure neuronal activity due to an external stimulus/stimulus, resting state
 
 This technique is based on the principles of magnetic resonance imaging (MRI), a non-invasive technique.
 
+<br>
+
 ### B. Differences between structural and functional MRI
 
 Basically, there are many different forms of MRI. A rough distinction can be made between structural and functional MRI ([https://www.youtube.com/watch?v=eN-zCoI_Ejc&t=34s](https://www.youtube.com/watch?v=eN-zCoI_Ejc&t=34s) - from minute 17). Structural MRI examines the anatomy as well as the pathology of the brain ([https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/research/themes-and-topics/medical-physics/imaging-techniques/structural-mr](https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/research/themes-and-topics/medical-physics/imaging-techniques/structural-mr)). This includes, for example, the examination of the existing amount of gray as well as white matter in the human brain ([https://www.youtube.com/watch?v=eN-zCoI_Ejc&t=34s](https://www.youtube.com/watch?v=eN-zCoI_Ejc&t=34s) - from minute 17).
@@ -100,6 +111,8 @@ The end result is an image that represents the different regions of the brain an
 (Fig. 2: [https://www.youtube.com/watch?v=4UOeBM5BwdY](https://www.youtube.com/watch?v=4UOeBM5BwdY))
 
 The next section looks in more detail at the physical basis of fMRI imaging in order to develop a solid understanding of how this technology works.
+<br>
+<br>
 
 ### C. Physical principles of fMRI
 
@@ -118,6 +131,7 @@ Atomic nuclei, such as protons, have an angular momentum called nuclear spin ([h
 <img src="images/Bildschirmfoto_2023-06-09_um_20.29.55.png" style="float: right;">
 <br>
 <em style="float: right;">Fig.4</em>
+<br>
 <br>
 
 Under normal environmental conditions, nuclear spins are randomly aligned and balance each other out, causing the average magnetization (M) to approach zero. This net magnetization as well as the alignment of the spins can be seen in the figure shown (Fig.4).
@@ -151,6 +165,8 @@ In summary, fMRI is based on using the magnetic properties of atomic nuclei and 
 Simply put, fMRI uses magnetism and blood flow to explore how the brain works ([http://www.fmri-easy.de/physik.htm](http://www.fmri-easy.de/physik.htm)).
 
 The next sections explore the technical aspects of fMRI, including the equipment used, data acquisition, and data analysis methods.
+<br>
+<br>
 
 # III. Technical aspects of fMRI Devices
 
@@ -178,6 +194,9 @@ By using fMRI scanners, it is possible to take multiple images of the brain duri
 
 In the next section, the different aspects of data acquisition and data analysis will be highlighted. In addition, a practical application of fMRI is then discussed and potential future implications are discussed.
 
+<br>
+<br>
+
 # IV. Data analysis in fMRI
 
 ### A. Imaging process
@@ -189,6 +208,8 @@ Localizing the brain areas that will be activated during the study is the primar
 ![Bildschirmfoto 2023-06-11 um 15.49.14.png](images/Bildschirmfoto_2023-06-11_um_15.49.14.png)
 
 (Fig. 8 [https://news.harvard.edu/gazette/story/2017/07/using-fmri-eeg-to-search-for-consciousness-in-icu-patients/](https://news.harvard.edu/gazette/story/2017/07/using-fmri-eeg-to-search-for-consciousness-in-icu-patients/))
+
+<br>
 
 ### B. Data analysis and interpretation of results
 
@@ -211,6 +232,8 @@ Various approaches are used in data analysis and interpretation of fMRI results.
 However, it is important to note that fMRI technology does not directly measure neuronal activity, but relies on indirect measurements based on changes in blood flow and oxygenation. Therefore, fMRI data should be interpreted in conjunction with other sources of information such as behavioral data and complementary imaging techniques to provide a more accurate assessment of neuronal activity [source: Springer]. [https://link.springer.com/chapter/10.1007/978-3-540-68558-6_8](https://link.springer.com/chapter/10.1007/978-3-540-68558-6_8)
 
 The next chapter will focus on the applications of fMRI in neuro-oncology and radiotherapy. There it will be shown how fMRI techniques can be used in the diagnosis and treatment of brain tumors and in the planning of radiotherapies.
+<br>
+<br>
 
 # V. Applications of fMRI in Neuro-Oncology and Radiotherapy
 
@@ -221,6 +244,7 @@ Functional magnetic resonance imaging (fMRI) has several applications in neuro-o
 (Fig. 9 [https://ars.els-cdn.com/content/image/1-s2.0-S1053811921009228-gr3.jpg](https://ars.els-cdn.com/content/image/1-s2.0-S1053811921009228-gr3.jpg))
 
 This information is critical for safely removing tumors. It is also a helpful aid in making decisions during surgery. In addition, fMRI allows prediction of functional outcome after surgery.
+<br>
 
 ### A. Clinical applications
 
@@ -235,6 +259,8 @@ Validation studies have shown that rs-fMRI-based functional connectivity has goo
 Current research focuses on the study of functional reorganization in tumor patients as well as microstructural injury caused by intracranial radiation therapy. The use of film-based fMRI techniques shows promising results in mapping language areas and studying complex brain networks related to emotion, cognition, and memory.
 
 In summary, fMRI in neuro-oncology and radiotherapy provides important information for preoperative planning and treatment of brain tumors. By combining fMRI with tractography and automated analysis techniques based on machine learning, critical brain pathways can be identified and the eloquent cortex can be precisely mapped. Advancing research on functional reorganization and microstructural injury is opening new avenues for understanding the effects of tumors and radiation therapy on complex brain functions.
+<br>
+<br>
 
 # VI. Conclusion
 
@@ -245,6 +271,7 @@ This work has explored functional magnetic resonance imaging and its importance 
 The basic operation of fMRI imaging was examined and the physical principles behind this technique were highlighted. In addition, the technical aspects of fMRI equipment were looked at in more detail and then data analysis was discussed. By understanding these fundamentals, the results of fMRI analyses can be better interpreted and the strengths and limitations of this technology become clearer.
 
 Furthermore, the practical applications of fMRI imaging were considered. These range from the study of brain function to the diagnosis of disease and the improvement of treatments for mental disorders. The fMRI technology has the potential to further deepen the understanding of the brain and human nature, and to open up new opportunities for medical and scientific advances.
+<br>
 
 ### ****B. Outlook on the future significance of fMRI****
 

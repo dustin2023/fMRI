@@ -107,7 +107,7 @@ The end result is an image that represents the different regions of the brain an
 
  (https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/research/themes-and-topics/medical-physics/imaging-techniques/structural-mr)
 
-<img src="images/IMG_2592.jpeg" width="50%" height="50%">
+<img src="images/IMG_2592.jpeg" width="70%" height="50%">
 
 (Fig. 2: [https://www.youtube.com/watch?v=4UOeBM5BwdY](https://www.youtube.com/watch?v=4UOeBM5BwdY))
 

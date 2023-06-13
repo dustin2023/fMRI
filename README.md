@@ -110,10 +110,8 @@ The end result is an image that represents the different regions of the brain an
 <img src="images/IMG_2592.jpeg" width="70%" height="50%">
 
 <br>
-<br>
 
 <em>Fig. 2: [YT-Video](https://www.youtube.com/watch?v=4UOeBM5BwdY)</em>
-
 
 The next section looks in more detail at the physical basis of fMRI imaging in order to develop a solid understanding of how this technology works.
 <br>

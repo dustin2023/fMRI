@@ -111,9 +111,6 @@ The end result is an image that represents the different regions of the brain an
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <em>Fig. 2: [YT-Video](https://www.youtube.com/watch?v=4UOeBM5BwdY)</em>
 

@@ -1,11 +1,11 @@
 # PStA
-
-# functional magnetic resonance imaging  (fMRI)
+# Functional magnetic resonance imaging  (fMRI)
+by Dustin Maurer 14.06.2023
 <br>
 
 # Structure
 
----
+--- 
 
 # I. Introduction
 

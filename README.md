@@ -245,17 +245,19 @@ This information is critical for safely removing tumors. It is also a helpful ai
 
 ### A. Clinical applications
 
-In clinical practice, fMRI is used in conjunction with tractography from diffusion-weighted magnetic resonance imaging (dMRI) to identify critical pathways in the brain. This association is important for the extent of tumor removal and functional outcomes ([ref. 19: www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3787513/)).
+In clinical practice, fMRI is used in conjunction with tractography from diffusion-weighted magnetic resonance imaging (dMRI) to identify critical pathways in the brain. This association is important for the extent of tumor removal and functional outcomes.
 
 Resting-state-based functional magnetic resonance imaging (rs-fMRI) is becoming increasingly important for neurosurgical mapping of the brain. Unlike conventional fMRI, which involves active tasks, rs-fMRI does not require active patient participation. This means that it can be used in patients with neurological deficits on whom ****ansonly conventional fMRI could not be performed. Current research has investigated sensorimotor mapping and speech networks using rs-fMRI.
 
-In addition, automated analysis techniques for rs-fMRI based on machine learning have shown promising results in mapping the eloquent cortex and predicting activations during surgery. The eloquent cortex includes brain regions responsible for important cognitive and functional tasks such as language, movement, sensory, and memory ([ref. 20: www.neuropsychiatrie.med.uni-erlangen.de](http://www.neuropsychiatrie.med.uni-erlangen.de/expneuro/papers/ganslandt-lokalisationsdiagnostik.htm)).
+In addition, automated analysis techniques for rs-fMRI based on machine learning have shown promising results in mapping the eloquent cortex and predicting activations during surgery. The eloquent cortex includes brain regions responsible for important cognitive and functional tasks such as language, movement, sensory, and memory.
 
 Validation studies have shown that rs-fMRI-based functional connectivity has good agreements with intraoperative electrocortical stimulation in mapping the eloquent cortex. Compared with task-based fMRI, rs-fMRI shows lower failure rates in mapping the eloquent cortex in tumor patients.
 
 Current research focuses on the study of functional reorganization in tumor patients as well as microstructural injury caused by intracranial radiation therapy. The use of film-based fMRI techniques shows promising results in mapping language areas and studying complex brain networks related to emotion, cognition, and memory.
 
 In summary, fMRI in neuro-oncology and radiotherapy provides important information for preoperative planning and treatment of brain tumors. By combining fMRI with tractography and automated analysis techniques based on machine learning, critical brain pathways can be identified and the eloquent cortex can be precisely mapped. Advancing research on functional reorganization and microstructural injury is opening new avenues for understanding the effects of tumors and radiation therapy on complex brain functions.
+([ref. 19: NeuroImage](https://www.sciencedirect.com/science/article/pii/S1053811921009228#sec0005))
+
 <br>
 <br>
 

@@ -153,7 +153,7 @@ There are two possible states: the low energy state (parallel alignment) and the
 fMRI uses hydrogen nuclei (protons), which are abundant in water and other tissues. As explained earlier, these protons align under the influence of the strong magnetic field in the fMRI scanner. By applying additional magnetic field gradients, differences in magnetization can be produced that correlate with neuronal activity. It is important to note that the overall vector of magnetization (indicated in Fig. 6
 denoted by arrow M) is measured and not the magnetization of individual atomic nuclei.
 
-<img src="images/Bildschirmfoto_2023-06-10_um_06.47.52.png" width="50%" height="30%">
+<img src="images/Bildschirmfoto_2023-06-10_um_06.47.52.png" width="30%" height="20%">
 
 
 <em>Fig. 6: [https://www.studocu.com](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085) </em>

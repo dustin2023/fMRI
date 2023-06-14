@@ -260,7 +260,7 @@ This information is crucial for safely removing tumors. It is also a helpful aid
 
 In clinical practice, fMRI is used in conjunction with tractography from diffusion-weighted magnetic resonance imaging (dMRI) to identify critical pathways in the brain. This association is important for the extent of tumor removal and functional outcomes .
 
-Resting-state-based functional magnetic resonance imaging (rs-fMRI) is becoming increasingly important for neurosurgical mapping of the brain. Unlike conventional fMRI, which involves active tasks, rs-fMRI does not require active patient participation. This means that it can be used in patients with neurological deficits on whom ****conventional fMRI could not otherwise be performed. Current research has investigated sensorimotor mapping and speech networks using rs-fMRI.
+Resting-state-based functional magnetic resonance imaging (rs-fMRI) is becoming increasingly important for neurosurgical mapping of the brain. Unlike conventional fMRI, which involves active tasks, rs-fMRI does not require active patient participation. This means that it can be used in patients with neurological deficits on whom conventional fMRI could not otherwise be performed. Current research has investigated sensorimotor mapping and speech networks using rs-fMRI.
 
 In addition, automated analysis techniques for rs-fMRI based on machine learning have shown promising results in mapping the eloquent cortex and predicting activations during surgery. The eloquent cortex includes brain regions responsible for important cognitive and functional tasks such as language, movement, sensory, and memory.
 

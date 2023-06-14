@@ -16,9 +16,9 @@ by Dustin Maurer
 
 ### A. Introduction to the Topic and Motivation
 
-# **II. Fundamentals of Functional Magnetic Resonance Imaging (fMRI)**
+# II. Fundamentals of Functional Magnetic Resonance Imaging (fMRI)
 
-### A. ****Functionality**** of fMRI Imaging
+### A. Functionality**** of fMRI Imaging
 
 ### B. Differences between structural and functional MRI
 
@@ -42,7 +42,7 @@ by Dustin Maurer
 
 ### A. Summary of Key Findings
 
-### ****B. Outlook on the future significance of fMRI****
+### B. Outlook on the future significance of fMRI
 
 # I. Introduction
 
@@ -64,7 +64,7 @@ The aim of this work is to provide a solid understanding of the imaging techniqu
 
 # II. Fundamentals of functional Magnetic Resonance Imaging (fMRI)
 
-### A. Functionality ********of fMRI imaging
+### A. Functionality of fMRI imaging
 
 Functional Magnetic Resonance Imaging (fMRI) allows us to gain valuable insights into the functionality of the brain and a deeper understanding of human nature. By visualizing neural activities in the brain, fMRI enables the exploration of the foundations of thoughts, emotions, intelligence, and consciousness.
 

@@ -226,7 +226,8 @@ Various approaches are used in data analysis and interpretation of fMRI results.
 
 However, it is important to note that fMRI technology does not directly measure neuronal activity, but relies on indirect measurements based on changes in blood flow and oxygenation. Therefore, fMRI data should be interpreted in conjunction with other sources of information such as behavioral data and complementary imaging techniques to provide a more accurate assessment of neuronal activity ([ref. 18: link.springer.com](https://link.springer.com/chapter/10.1007/978-3-540-68558-6_8)).
 
-The next chapter will focus on the applications of fMRI in neuro-oncology and radiotherapy. There it will be shown how fMRI techniques can be used in the diagnosis and treatment of brain tumors and in the planning of radiotherapies.
+The next chapter will focus on the applications of fMRI in neuro-oncology and radiotherapy and is based on the Journal "NeuroImage"([ref. 19: NeuroImage](https://www.sciencedirect.com/science/article/pii/S1053811921009228#sec0005)).
+ There it will be shown how fMRI techniques can be used in the diagnosis and treatment of brain tumors and in the planning of radiotherapies.
 <br>
 <br>
 

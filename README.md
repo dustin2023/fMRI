@@ -143,7 +143,7 @@ Due to the action of a strong magnetic field, as generated in the fMRI scanner, 
 There are two possible states: the low energy state (parallel alignment) and the high energy state (anti-parallel alignment) to the magnetic field. In the following image, the parallel states are shown in orange and the anti-parallel states are shown in blue ([ref. 10: Lecture 3: Fundamentals of MR Imaging (Part 1) page 14](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085)).
 
 
-<img src="images/Bildschirmfoto_2023-06-09_um_20.32.05.png" width="50%" height="40%">
+![Bildschirmfoto 2023-06-09 um 20.32.05.png](images/Bildschirmfoto_2023-06-09_um_20.32.05.png)
 
 <br>
 
@@ -153,7 +153,8 @@ There are two possible states: the low energy state (parallel alignment) and the
 fMRI uses hydrogen nuclei (protons), which are abundant in water and other tissues. As explained earlier, these protons align under the influence of the strong magnetic field in the fMRI scanner. By applying additional magnetic field gradients, differences in magnetization can be produced that correlate with neuronal activity. It is important to note that the overall vector of magnetization (indicated in Fig. 6
 denoted by arrow M) is measured and not the magnetization of individual atomic nuclei.
 
-![Bildschirmfoto 2023-06-10 um 06.47.52.png](images/Bildschirmfoto_2023-06-10_um_06.47.52.png)
+<img src="images/Bildschirmfoto_2023-06-10_um_06.47.52.png" width="50%" height="30%">
+
 
 <em>Fig. 6: [https://www.studocu.com](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085) </em>
 

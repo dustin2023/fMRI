@@ -102,9 +102,7 @@ Basically, there are many different forms of MRI. A rough distinction can be mad
 Thus, constant features are considered here. These are recorded with the help of a snapshot.
 It focuses on capturing and analyzing the current changes in brain activity resulting from different activities. Basically, a kind of film is created here by recording numerous images. These images are played rapidly, one after another, to reveal the changes in activity in various brain regions. These changes become visible over time, making it possible to draw conclusions about the particular tasks that the patient has performed. ([ref. 5: Systems Neuroscience Using fMRI: Studying the Brain to Understand the Mind - from minute 17](https://www.youtube.com/watch?v=eN-zCoI_Ejc&t=34s))
 
-The end result is an image that represents the different regions of the brain and their activity during the examination. Coloring highlights the activities and makes them apparent to the viewer, compare figure two. Both of these techniques provide images that can be used for clinical radiological reporting as well as targeted analysis.
-
-([ref. 7:psychcentral.com](https://psychcentral.com/lib/what-is-functional-magnetic-resonance-imaging-fmri?c=1188759824#definition))
+The end result is an image that represents the different regions of the brain and their activity during the examination. Coloring highlights the activities and makes them apparent to the viewer, compare figure two. Both of these techniques provide images that can be used for clinical radiological reporting as well as targeted analysis ([ref. 7:psychcentral.com](https://psychcentral.com/lib/what-is-functional-magnetic-resonance-imaging-fmri?c=1188759824#definition)).
 
 <img src="images/IMG_2592.jpeg" width="70%" height="50%">
 

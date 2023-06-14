@@ -60,7 +60,7 @@ But how does this fascinating organ actually work?
 
 For a long time, scientists had no way  to look inside an active brain. Imagine the enormous advantages we would have if we could. Not only could we develop significantly more powerful computers or create new treatment methods for mental illnesses, but we could also answer fundamental questions like: Who are we? What defines us as human beings?  (cf. [ref. 1: fMRI - How it Works and What it's Good For](https://www.youtube.com/watch?v=Rb_mdzgw-Jc))
 
-It wasn't until 1991 that scientists invented a method that allows  ~~~~ us to study the brain in an active state (cf. [ref. 3: pubmed](https://pubmed.ncbi.nlm.nih.gov/27432660/#:~:text=Abstract,basic%20and%20applied%20neuroscience%20research)). This groundbreaking method revolutionized the understanding of the brain and opened completely new perspectives for exploring neural activities.
+It wasn't until 1991 that scientists invented a method that allows us to study the brain in an active state (cf. [ref. 3: pubmed](https://pubmed.ncbi.nlm.nih.gov/27432660/#:~:text=Abstract,basic%20and%20applied%20neuroscience%20research)). This groundbreaking method revolutionized the understanding of the brain and opened completely new perspectives for exploring neural activities.
 
 This paper focuses on an imaging technique that enables just that - functional magnetic resonance imaging (fMRI). With fMRI, it became possible to understand the functionality of each brain region and gain insights into neural activities.
 

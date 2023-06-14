@@ -52,13 +52,13 @@
 
 ### A. Introduction to the Topic and Motivation
 
-Thoughts, emotions, intelligence and even consciousness - all these phenomena take place in our brain ([Ref. 1: fMRI - How it Works and What it's Good For](https://www.youtube.com/watch?v=Rb_mdzgw-Jc)). Although it accounts for only about 2% of body weight, the brain consumes more than 20% of total energy and oxygen intake. ([Ref. 2: inside.hochdorf.com](https://inside.hochdorf.com/de/fakten-ueber-unser-gehirn#:~:text=Das%20Gehirn%20eines%20Erwachsenen%20macht,DHA%20aus%2C%2015%25%20AA)). It is an amazing marvel and the most powerful computer on the planet.
+Thoughts, emotions, intelligence and even consciousness - all these phenomena take place in our brain ([ref. 1: fMRI - How it Works and What it's Good For](https://www.youtube.com/watch?v=Rb_mdzgw-Jc)). Although it accounts for only about 2% of body weight, the brain consumes more than 20% of total energy and oxygen intake. ([ref. 2: inside.hochdorf.com](https://inside.hochdorf.com/de/fakten-ueber-unser-gehirn#:~:text=Das%20Gehirn%20eines%20Erwachsenen%20macht,DHA%20aus%2C%2015%25%20AA)). It is an amazing marvel and the most powerful computer on the planet.
 
 But how does this fascinating organ actually work?
 
-For a long time, scientists had no way of looking into an active brain. Imagine the enormous advantages we would have if we could. Not only could we develop significantly more powerful computers or create new treatment methods for mental illnesses, but we could also answer fundamental questions like: Who are we? What defines us as human beings?  ([Ref. 1: fMRI - How it Works and What it's Good For](https://www.youtube.com/watch?v=Rb_mdzgw-Jc))
+For a long time, scientists had no way of looking into an active brain. Imagine the enormous advantages we would have if we could. Not only could we develop significantly more powerful computers or create new treatment methods for mental illnesses, but we could also answer fundamental questions like: Who are we? What defines us as human beings?  ([ref. 1: fMRI - How it Works and What it's Good For](https://www.youtube.com/watch?v=Rb_mdzgw-Jc))
 
-It wasn't until 1991 that scientists invented a method that allows you to study the brain in an active state ([Ref. 3: pubmed](https://pubmed.ncbi.nlm.nih.gov/27432660/#:~:text=Abstract,basic%20and%20applied%20neuroscience%20research)). This groundbreaking method revolutionized the understanding of the brain and opened completely new perspectives for exploring neural activities.
+It wasn't until 1991 that scientists invented a method that allows you to study the brain in an active state ([ref. 3: pubmed](https://pubmed.ncbi.nlm.nih.gov/27432660/#:~:text=Abstract,basic%20and%20applied%20neuroscience%20research)). This groundbreaking method revolutionized the understanding of the brain and opened completely new perspectives for exploring neural activities.
 
 This paper focuses on an imaging technique that enables just that - functional magnetic resonance imaging (fMRI). With fMRI, it became possible to understand the functionality of each brain region and gain insights into neural activities.
 
@@ -72,7 +72,7 @@ The aim of this work is to provide a solid understanding of the imaging techniqu
 
 Functional Magnetic Resonance Imaging (fMRI) allows us to gain valuable insights into the functioning of the brain and a deeper understanding of human nature. By visualizing neural activities in the brain, fMRI enables the exploration of the foundations of thoughts, emotions, intelligence, and consciousness.
 
-This section explains how functional magnetic resonance imaging works and explores how this method provides valuable insights into the workings of the brain. The basic operation of fMRI imaging is based on the relationship between neuronal activity and the resulting changes in local blood flow in the brain. When specific regions of the brain are active, there is a localized shortage of oxygen in those regions. This oxygen deficit is then countered, leading to an increased concentration of oxygenated blood in the active regions. The following diagram illustrates this process in a simplified manner. This increased oxygen concentration is considered an indicator of neuronal activity. (Medical Imaging Systems.pdf 6.4.4) ([Ref. 4: Understanding MRI: What is functional MRI (fMRI)?](https://www.youtube.com/watch?v=4UOeBM5BwdY))
+This section explains how functional magnetic resonance imaging works and explores how this method provides valuable insights into the workings of the brain. The basic operation of fMRI imaging is based on the relationship between neuronal activity and the resulting changes in local blood flow in the brain. When specific regions of the brain are active, there is a localized shortage of oxygen in those regions. This oxygen deficit is then countered, leading to an increased concentration of oxygenated blood in the active regions. The following diagram illustrates this process in a simplified manner. This increased oxygen concentration is considered an indicator of neuronal activity. (Medical Imaging Systems.pdf 6.4.4) ([ref. 4: Understanding MRI: What is functional MRI (fMRI)?](https://www.youtube.com/watch?v=4UOeBM5BwdY))
 
 ![IMG_2594.jpg](images/IMG_2594.jpg)
 <em>Fig. 1: [VL-Skript Part 2: page 33](https://www.win.ox.ac.uk/)</em>
@@ -96,14 +96,14 @@ This technique is based on the principles of magnetic resonance imaging (MRI), a
 
 ### B. Differences between structural and functional MRI
 
-Basically, there are many different forms of MRI. A rough distinction can be made between structural and functional MRI ([Ref. 5: Systems Neuroscience Using fMRI: Studying the Brain to Understand the Mind - from minute 17](https://www.youtube.com/watch?v=eN-zCoI_Ejc&t=34s)). Structural MRI examines the anatomy as well as the pathology of the brain ([Ref. 6: www.ed.ac.uk](https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/research/themes-and-topics/medical-physics/imaging-techniques/structural-mr)). This includes, for example, the examination of the existing amount of gray as well as white matter in the human brain ([[Ref. 5: Systems Neuroscience Using fMRI: Studying the Brain to Understand the Mind - from minute 17](https://www.youtube.com/watch?v=eN-zCoI_Ejc&t=34s)).
+Basically, there are many different forms of MRI. A rough distinction can be made between structural and functional MRI ([ref. 5: Systems Neuroscience Using fMRI: Studying the Brain to Understand the Mind - from minute 17](https://www.youtube.com/watch?v=eN-zCoI_Ejc&t=34s)). Structural MRI examines the anatomy as well as the pathology of the brain ([ref. 6: www.ed.ac.uk](https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/research/themes-and-topics/medical-physics/imaging-techniques/structural-mr)). This includes, for example, the examination of the existing amount of gray as well as white matter in the human brain ([[ref. 5: Systems Neuroscience Using fMRI: Studying the Brain to Understand the Mind - from minute 17](https://www.youtube.com/watch?v=eN-zCoI_Ejc&t=34s)).
 
 Thus, constant features are considered here. These are recorded with the help of a snapshot.
-It focuses on capturing and analyzing the current changes in brain activity resulting from different activities. Basically, a kind of film is created here by recording numerous images. These images are played rapidly, one after another, to reveal the changes in activity in various brain regions. These changes become visible over time, making it possible to draw conclusions about the particular tasks that the patient has performed. ([Ref. 5: Systems Neuroscience Using fMRI: Studying the Brain to Understand the Mind - from minute 17](https://www.youtube.com/watch?v=eN-zCoI_Ejc&t=34s))
+It focuses on capturing and analyzing the current changes in brain activity resulting from different activities. Basically, a kind of film is created here by recording numerous images. These images are played rapidly, one after another, to reveal the changes in activity in various brain regions. These changes become visible over time, making it possible to draw conclusions about the particular tasks that the patient has performed. ([ref. 5: Systems Neuroscience Using fMRI: Studying the Brain to Understand the Mind - from minute 17](https://www.youtube.com/watch?v=eN-zCoI_Ejc&t=34s))
 
 The end result is an image that represents the different regions of the brain and their activity during the examination. Coloring highlights the activities and makes them apparent to the viewer, compare figure two. Both of these techniques provide images that can be used for clinical radiological reporting as well as targeted analysis.
 
-([Ref. 7:psychcentral.com](https://psychcentral.com/lib/what-is-functional-magnetic-resonance-imaging-fmri?c=1188759824#definition))
+([ref. 7:psychcentral.com](https://psychcentral.com/lib/what-is-functional-magnetic-resonance-imaging-fmri?c=1188759824#definition))
 
 <img src="images/IMG_2592.jpeg" width="70%" height="50%">
 
@@ -124,7 +124,7 @@ To understand the physical principles of fMRI, the properties of atomic nuclei a
 <em>Fig. 3: [https://www.studocu.com](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085) </em>
 <br>
 <br>
-Atomic nuclei, such as protons, have an angular momentum called nuclear spin ([Ref. 8: www.fmri-easy.de](http://www.fmri-easy.de/physik.htm)). This nuclear spin generates a magnetic moment.
+Atomic nuclei, such as protons, have an angular momentum called nuclear spin ([ref. 8: www.fmri-easy.de](http://www.fmri-easy.de/physik.htm)). This nuclear spin generates a magnetic moment.
 <br>
 <br>
 
@@ -139,9 +139,9 @@ Under normal environmental conditions, nuclear spins are randomly aligned and ba
 
 <br>
 
-Due to the action of a strong magnetic field, as generated in the fMRI scanner, more on this in a later chapter, the spins change their orientation. "The behavior of spins in the magnetic field is similar to a gyroscope in a gravitational field" (see [Ref. 9: Lecture 3: Fundamentals of MR Imaging (Part 1) page 15](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085)).
+Due to the action of a strong magnetic field, as generated in the fMRI scanner, more on this in a later chapter, the spins change their orientation. "The behavior of spins in the magnetic field is similar to a gyroscope in a gravitational field" (see [ref. 9: Lecture 3: Fundamentals of MR Imaging (Part 1) page 15](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085)).
 
-There are two possible states: the low energy state (parallel alignment) and the high energy state (anti-parallel alignment) to the magnetic field. In the following image, the parallel states are shown in orange and the anti-parallel states are shown in blue ([Ref. 10: Lecture 3: Fundamentals of MR Imaging (Part 1) page 14](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085)).
+There are two possible states: the low energy state (parallel alignment) and the high energy state (anti-parallel alignment) to the magnetic field. In the following image, the parallel states are shown in orange and the anti-parallel states are shown in blue ([ref. 10: Lecture 3: Fundamentals of MR Imaging (Part 1) page 14](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085)).
 
 ![Bildschirmfoto 2023-06-09 um 20.32.05.png](images/Bildschirmfoto_2023-06-09_um_20.32.05.png)
 <em>Fig. 5: [https://www.studocu.com](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085) </em>
@@ -157,14 +157,14 @@ denoted by arrow M) is measured and not the magnetization of individual atomic n
 
 Therefore, the measurement primarily focuses on changes in net magnetization. This is composed of the longitudinal and the transverse component. The longitudinal component, which is aligned either parallel or antiparallel to the static magnetic field, is not measured directly but is mainly influenced by the static magnetic field. The transverse component, on the other hand, is recorded in the MR device and is oriented perpendicular to the direction of the static magnetic field.
 
-Under normal conditions, the value of the transverse component is zero because, as mentioned earlier, the spins balance in the transverse direction and do not produce any measurable magnetization. A measurable change in the transverse plane occurs only when the precession of the spins is in phase. The net magnetization (M) in the longitudinal direction is proportional to the difference between the number of spins in the parallel and antiparallel states. When there are more spins in the parallel state, the net magnetization is larger. ([Ref. 9: Lecture 3: Fundamentals of MR Imaging (Part 1) page 15](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085)).
+Under normal conditions, the value of the transverse component is zero because, as mentioned earlier, the spins balance in the transverse direction and do not produce any measurable magnetization. A measurable change in the transverse plane occurs only when the precession of the spins is in phase. The net magnetization (M) in the longitudinal direction is proportional to the difference between the number of spins in the parallel and antiparallel states. When there are more spins in the parallel state, the net magnetization is larger. ([ref. 9: Lecture 3: Fundamentals of MR Imaging (Part 1) page 15](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085)).
 
 The changes in neuronal activity in the brain lead to changes in blood flow and oxygenation. As already known, these changes affect the local concentration of oxygenated hemoglobin, which in turn affects the T2* signal intensity.
 
-It is important to note that explanations of MRI phenomena often switch between classical physics and quantum mechanics, as both levels of description are used to explain the observed phenomena. Using both theories allows for a more comprehensive understanding of MRI phenomena, as George Box affirms, "All models are wrong but some are useful" (George Box). ([Ref. 12: Lecture 3: Fundamentals of MR Imaging (Part 1) Page 13](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085))
+It is important to note that explanations of MRI phenomena often switch between classical physics and quantum mechanics, as both levels of description are used to explain the observed phenomena. Using both theories allows for a more comprehensive understanding of MRI phenomena, as George Box affirms, "All models are wrong but some are useful" (George Box). ([ref. 12: Lecture 3: Fundamentals of MR Imaging (Part 1) Page 13](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085))
 
 In summary, fMRI is based on using the magnetic properties of atomic nuclei and changes in blood flow to measure brain activity. These physical principles form the basis for the fMRI imaging technique and enable the study of neural processes in the brain.
-Simply put, fMRI uses magnetism and blood flow to explore how the brain works ([Ref. 8: http://www.fmri-easy.de](http://www.fmri-easy.de/physik.htm)).
+Simply put, fMRI uses magnetism and blood flow to explore how the brain works ([ref. 8: http://www.fmri-easy.de](http://www.fmri-easy.de/physik.htm)).
 
 The next sections explore the technical aspects of fMRI, including the equipment used, data acquisition, and data analysis methods.
 <br>
@@ -184,7 +184,7 @@ The device design and functions of an fMRI scanner enable the manipulation and d
 
 The magnetic strength of an fMRI scanner is at least 10,000 times greater than the Earth's magnetic field. When the patient is in the scanner's magnetic field, protons, particularly hydrogen atoms in water molecules in the brain, begin to align along the magnetic field. As explained in the basics, a small number of these protons align with the magnetic field of the scanner with respect to their magnetic orientation.
 
-To generate the fMRI signals, a radio pulse is applied to the brain in layers. This radio pulse causes the protons, particularly the hydrogen atom in H2O, to be deflected 90 degrees from their original orientation. This process is critical for generating the signal used in both fMRI and structural MRI ([Ref. 13: https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works](https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works)).
+To generate the fMRI signals, a radio pulse is applied to the brain in layers. This radio pulse causes the protons, particularly the hydrogen atom in H2O, to be deflected 90 degrees from their original orientation. This process is critical for generating the signal used in both fMRI and structural MRI ([ref. 13: https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works](https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works)).
 
 While the protons are brought to the 90-degree state by the radio waves, local interactions with other molecules occur in the brain. Deoxy-hemoglobin in particular has certain magnetic properties that can interfere with the signal. Initially, this was considered a disruptive factor.
 
@@ -192,7 +192,7 @@ However, these perturbations turned out to be of crucial importance for the gene
 
 Because of these perturbations of the MR signal by deoxy-hemoglobin, functional magnetic resonance imaging (fMRI) is based. This signal is different from the signal used in structural MRI, although both are part of the same system.
 
-By using fMRI scanners, it is possible to take multiple images of the brain during the examination. By comparing these images, specific brain regions involved in cognitive processes or tasks can be identified ([Ref. 14: Basics of fMRI](https://www.youtube.com/watch?v=-C84RFgyzuE)).
+By using fMRI scanners, it is possible to take multiple images of the brain during the examination. By comparing these images, specific brain regions involved in cognitive processes or tasks can be identified ([ref. 14: Basics of fMRI](https://www.youtube.com/watch?v=-C84RFgyzuE)).
 
 In the next section, the different aspects of data acquisition and data analysis will be highlighted. In addition, a practical application of fMRI is then discussed and potential future implications are discussed.
 
@@ -204,7 +204,7 @@ In the next section, the different aspects of data acquisition and data analysis
 ### A. Imaging process
 
 Localizing the brain areas that will be activated during the study is the primary goal of fMRI. Typically, subjects are exposed to experimentally generated stimuli to which they are expected to respond. At the same time, one to two images per second are acquired. This equates to several hundred per examination. This collection of images is evaluated using standard statistical methods to identify brain regions that are significantly more active during stimulus exposure compared to baseline. This evaluation provides a map showing the active regions, compare figure eight. This shows the statistical clarity with which the individual pixels are emphasized. These analyses are routinely performed internationally at numerous institutes.
-([Ref. 15: www.cbs.mpg.de](https://www.cbs.mpg.de/ehemalige-abteilungen/neurophysik/mrt-datenanalyse#:~:text=Analysis%20and%20interpretation%20of%20functional%20MRI%2DData&text=In%20a%20typical%20fMRI%20experiment,images%20taken%20from%20the%20MRI%2DScanner)).
+([ref. 15: www.cbs.mpg.de](https://www.cbs.mpg.de/ehemalige-abteilungen/neurophysik/mrt-datenanalyse#:~:text=Analysis%20and%20interpretation%20of%20functional%20MRI%2DData&text=In%20a%20typical%20fMRI%20experiment,images%20taken%20from%20the%20MRI%2DScanner)).
 
 ![Bildschirmfoto 2023-06-11 um 15.49.14.png](images/Bildschirmfoto_2023-06-11_um_15.49.14.png)
 
@@ -217,19 +217,19 @@ Localizing the brain areas that will be activated during the study is the primar
 
 Data analysis is extremely challenging. In the approach, there are numerous different options to further process the data. Before the actual data analysis of the fMRI images can take place, these data must first be processed. In this step, corrections are made in order to better analyze the data. In this way, for example, the movements of the test participants in the scanner can be identified and filtered out. Another step that contributes to better comparability of the data is to map the brains of different sizes to a standardized size by reducing or enlarging them. This step is done by smoothing the data, i.e. selecting the disturbances. Various programs, such as MATLAB, as well as corresponding parameters are available for data preparation.
 
-[Ref. 16: https://www.nzz.ch/wissenschaft](https://www.nzz.ch/wissenschaft/hirnscans-lassen-sich-unterschiedlich-auswerten-das-beeinflusst-auch-das-ergebnis-ld.1558507)
+[ref. 16: https://www.nzz.ch/wissenschaft](https://www.nzz.ch/wissenschaft/hirnscans-lassen-sich-unterschiedlich-auswerten-das-beeinflusst-auch-das-ergebnis-ld.1558507)
 
 Despite the great benefit for neuroscience, some questions initially remained unanswered. For example, conventional analysis could not provide any information about the interactions between brain areas. To counteract this problem, work was done to develop new methods. Thanks to a breakthrough by neuroscientists some time ago, fMRI technology can nowadays also be used to study these interactions.
 
 An important method for this is functional connectivity analysis, which examines the correlations between different brain regions. By analyzing patterns of brain activity, functional networks in the brain can be identified. These networks show how different regions interact with each other during certain cognitive processes.
 
-[Ref. 16: https://www.nzz.ch/wissenschaft](https://www.nzz.ch/wissenschaft/hirnscans-lassen-sich-unterschiedlich-auswerten-das-beeinflusst-auch-das-ergebnis-ld.1558507), ([Ref. 15: www.cbs.mpg.de](https://www.cbs.mpg.de/ehemalige-abteilungen/neurophysik/mrt-datenanalyse#:~:text=Analyse%20und%20Interpretation%20von%20funktionellen%20MRT%2DDaten&text=In%20einem%20typischen%20fMRI%20Experiment,Bilder%20vom%20MRT%2DScanner%20aufgenommen)).
+[ref. 16: https://www.nzz.ch/wissenschaft](https://www.nzz.ch/wissenschaft/hirnscans-lassen-sich-unterschiedlich-auswerten-das-beeinflusst-auch-das-ergebnis-ld.1558507), ([ref. 15: www.cbs.mpg.de](https://www.cbs.mpg.de/ehemalige-abteilungen/neurophysik/mrt-datenanalyse#:~:text=Analyse%20und%20Interpretation%20von%20funktionellen%20MRT%2DDaten&text=In%20einem%20typischen%20fMRI%20Experiment,Bilder%20vom%20MRT%2DScanner%20aufgenommen)).
 
 [ref. 17: healthcare-in-europe.com](https://healthcare-in-europe.com/de/news/ein-anderer-blickwinkel-ins-gehirn.html)
 
-Various approaches are used in data analysis and interpretation of fMRI results. One common method is "voxel-based analysis," in which data are analyzed at the level of individual pixels. This allows identification of specific brain regions that are active during a particular activity or state. More advanced analysis methods, such as machine learning and artificial intelligence, are also used to identify complex patterns and relationships in the fMRI data. This allows for the detection of more subtle differences in brain activity and more accurate predictions about specific conditions or diseases [source: ScienceDirect].
+Various approaches are used in data analysis and interpretation of fMRI results. One common method is "voxel-based analysis," in which data are analyzed at the level of individual pixels. This allows identification of specific brain regions that are active during a particular activity or state. More advanced analysis methods, such as machine learning and artificial intelligence, are also used to identify complex patterns and relationships in the fMRI data. This allows for the detection of more subtle differences in brain activity and more accurate predictions about specific conditions or diseases [ref. 18: link.springer.com](https://link.springer.com/chapter/10.1007/978-3-540-68558-6_8).
 
-However, it is important to note that fMRI technology does not directly measure neuronal activity, but relies on indirect measurements based on changes in blood flow and oxygenation. Therefore, fMRI data should be interpreted in conjunction with other sources of information such as behavioral data and complementary imaging techniques to provide a more accurate assessment of neuronal activity [source: Springer]. [https://link.springer.com/chapter/10.1007/978-3-540-68558-6_8](https://link.springer.com/chapter/10.1007/978-3-540-68558-6_8)
+However, it is important to note that fMRI technology does not directly measure neuronal activity, but relies on indirect measurements based on changes in blood flow and oxygenation. Therefore, fMRI data should be interpreted in conjunction with other sources of information such as behavioral data and complementary imaging techniques to provide a more accurate assessment of neuronal activity [ref. 18: link.springer.com](https://link.springer.com/chapter/10.1007/978-3-540-68558-6_8).
 
 The next chapter will focus on the applications of fMRI in neuro-oncology and radiotherapy. There it will be shown how fMRI techniques can be used in the diagnosis and treatment of brain tumors and in the planning of radiotherapies.
 <br>
@@ -240,8 +240,7 @@ The next chapter will focus on the applications of fMRI in neuro-oncology and ra
 Functional magnetic resonance imaging (fMRI) has several applications in neuro-oncology and radiotherapy. It helps identify important regions in the brain, such as sensorimotor and speech-related areas, before surgery. It also allows determination of the location and function of brain structures such as white matter tracts, compare figure nine.
 
 ![Untitled](images/Untitled.png)
-
-(Fig. 9 [https://ars.els-cdn.com/content/image/1-s2.0-S1053811921009228-gr3.jpg](https://ars.els-cdn.com/content/image/1-s2.0-S1053811921009228-gr3.jpg))
+<em>Fig. 9 [ars.els-cdn.com](https://ars.els-cdn.com/content/image/1-s2.0-S1053811921009228-gr3.jpg)</em>
 
 This information is critical for safely removing tumors. It is also a helpful aid in making decisions during surgery. In addition, fMRI allows prediction of functional outcome after surgery.
 <br>

@@ -143,6 +143,8 @@ Due to the action of a strong magnetic field, as generated in the fMRI scanner, 
 There are two possible states: the low energy state (parallel alignment) and the high energy state (anti-parallel alignment) to the magnetic field. In the following image, the parallel states are shown in orange and the anti-parallel states are shown in blue ([ref. 10: Lecture 3: Fundamentals of MR Imaging (Part 1) page 14](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085)).
 
 ![Bildschirmfoto 2023-06-09 um 20.32.05.png](images/Bildschirmfoto_2023-06-09_um_20.32.05.png)
+<br>
+
 <em>Fig. 5: [https://www.studocu.com](https://www.studocu.com/de/document/georg-august-universitat-gottingen/behaviorale-neurowissenschaften/vorlesung-31-physikalische-grundlagen-der-mr-bildgebung-teil-1/35525085) </em>
 
 

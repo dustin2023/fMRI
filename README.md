@@ -236,6 +236,8 @@ The next chapter will focus on the applications of fMRI in neuro-oncology and ra
 Functional magnetic resonance imaging (fMRI) has several applications in neuro-oncology and radiotherapy. It helps identify important regions in the brain, such as sensorimotor and speech-related areas, before surgery. It also allows determination of the location and function of brain structures such as white matter tracts, compare figure nine.
 
 ![Untitled](images/Untitled.png)
+<br>
+
 <em>Fig. 9 [ars.els-cdn.com](https://ars.els-cdn.com/content/image/1-s2.0-S1053811921009228-gr3.jpg)</em>
 
 This information is critical for safely removing tumors. It is also a helpful aid in making decisions during surgery. In addition, fMRI allows prediction of functional outcome after surgery.
